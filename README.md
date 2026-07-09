@@ -2,6 +2,38 @@
 
 CityFix is a full-stack MERN application that empowers citizens to report local civic issues such as potholes, garbage dumps, broken streetlights, water leaks, and more. Government officers can manage and resolve complaints through a dedicated dashboard, while admins oversee the entire system with analytics.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+Landing page showcasing recent civic reports and platform overview.
+
+![Home](screenshots/home.png)
+
+### 👤 Citizen Dashboard
+Dashboard for tracking complaints, notifications, and activity.
+
+![Citizen Dashboard](screenshots/citizen-dashboard.png)
+
+### 📝 Report Issue
+Interactive complaint submission with image upload and map location selection.
+
+![Report Issue](screenshots/report-issue.png)
+
+### 🔥 Heatmap
+Geographical visualization of complaint density across locations.
+
+![Heatmap](screenshots/heatmap.png)
+
+### 🛠 Admin Dashboard
+Complaint management, department assignment, analytics, and user administration.
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 👮 Officer Dashboard
+Assigned complaints with status updates and resolution workflow.
+
+![Officer Dashboard](screenshots/officer-dashboard.png)
+
 ## 🚀 Tech Stack
 
 | Layer | Technology |
